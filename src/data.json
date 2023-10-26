@@ -1,0 +1,71 @@
+{
+  "events": [
+    {
+      "year": 1600,
+      "latitude": 21.1702,
+      "longitude": 72.8311,
+      "place": "Formation of the British East India Company",
+      "image": "https://images.pexels.com/photos/968299/pexels-photo-968299.jpeg",
+      "description": "In the year 1600, the British East India Company was founded. It played a significant role in British colonization and trade in India."
+    },
+    {
+      "year": 1757,
+      "latitude": 22.9868,
+      "longitude": 87.8549,
+      "place": "Battle of Plassey",
+      "image": "https://www.nam.ac.uk/sites/default/files/styles/slice_sm/public/2017-09/1013865_slice.jpg?itok=DFx7Q1QB",
+      "description": "The Battle of Plassey in 1757 was a pivotal moment in Indian history. It marked the beginning of British control over India and the decline of the Mughal Empire."
+    },
+    {
+      "year": 1764,
+      "latitude": 26.9258,
+      "longitude": 80.5935,
+      "place": "Battle of Buxar",
+      "image": "https://edurev.gumlet.io/ApplicationImages/Temp/59_bb1f0eb5-5155-4127-9ef5-d58b6b144984_lg.jpg?w=330&dpr=2.6",
+      "description": "The Battle of Buxar in 1764 was a significant conflict that further solidified British control over India. It led to the Treaty of Allahabad and the expansion of British influence."
+    },
+    {
+      "year": 1857,
+      "latitude": 28.6139,
+      "longitude": 77.2090,
+      "place": "Indian Rebellion of 1857",
+      "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/A73E/production/_96841824_gettyimages-3373090.jpg",
+      "description": "The Indian Rebellion of 1857, also known as the Indian Mutiny or the First War of Independence, was a widespread uprising against British rule in India."
+    },
+    {
+      "year": 1858,
+      "latitude": 28.6139,
+      "longitude": 77.2090,
+      "place": "End of the Mughal Empire",
+      "description": "In 1858, following the Indian Rebellion, the British formally ended the Mughal Empire, marking the end of a centuries-old dynasty."
+    },
+    {
+      "year": 1919,
+      "latitude": 31.5497,
+      "longitude": 74.3436,
+      "place": "Jallianwala Bagh Massacre",
+      "description": "The Jallianwala Bagh Massacre was a tragic event in 1919 when British troops opened fire on a peaceful gathering in Amritsar, leading to many casualties."
+    },
+    {
+      "year": 1942,
+      "latitude": 22.5735,
+      "longitude": 88.4331,
+      "place": "Quit India Movement",
+      "description": "The Quit India Movement was a significant civil disobedience campaign launched by Mahatma Gandhi in 1942, demanding an end to British rule in India."
+    },
+    {
+      "year": 1947,
+      "latitude": 28.6139,
+      "longitude": 77.2090,
+      "place": "Indian Independence",
+      "description": "India gained independence from British rule in 1947, leading to the establishment of the Republic of India."
+    },
+    {
+      "year": 1947,
+      "latitude": 31.5497,
+      "longitude": 74.3436,
+      "place": "Partition of India",
+      "description": "In 1947, the Indian subcontinent was partitioned into two independent nations, India and Pakistan, leading to significant demographic shifts and upheaval."
+    }
+  ]
+}
