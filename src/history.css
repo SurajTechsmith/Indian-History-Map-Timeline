@@ -1,0 +1,188 @@
+  
+  ul {
+    display: flex;
+    background: black;
+    list-style: none;
+    color: white;
+    height: 34vh;
+    overflow-x: scroll;
+    padding: 20px 0;
+    flex: 0 0 600px;
+    margin: 0 auto;
+  }
+
+  
+  li {
+    flex: 0 0 30vh;
+    margin: 0 20px 0 0;
+    font-size: 12px;
+  }
+  li:first-of-type{
+    margin-left: 20px;
+  }
+  li:last-of-type {
+    margin: 0;
+  }
+
+  figure{
+    margin: 0;
+  }
+    
+  img{
+    width: 100%;
+    height: 100px;
+  }
+
+  ::-webkit-scrollbar {
+    height: 5px;
+    width: 5px;
+    background: #fff3;
+    -webkit-border-radius: 1ex;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: yellow;
+    -webkit-border-radius: 1ex;
+  }
+  
+  ::-webkit-scrollbar-corner {
+    background: #fff3;
+  }
+  
+  ul {
+    display: flex;
+    background: black;
+    list-style: none;
+    color: white;
+    height: 34vh;
+    overflow-x: scroll;
+    padding: 20px 0;
+    flex: 0 0 600px;
+    margin: 0 auto;
+  }
+
+  
+  li {
+    flex: 0 0 30vh;
+    margin: 0 20px 0 0;
+    font-size: 12px;
+  }
+  li:first-of-type{
+    margin-left: 20px;
+  }
+  li:last-of-type {
+    margin: 0;
+  }
+
+  figure{
+    margin: 0;
+  }
+    
+  img{
+    width: 100%;
+    height: 100px;
+  }
+
+  ::-webkit-scrollbar {
+    height: 5px;
+    width: 5px;
+    background: #fff3;
+    -webkit-border-radius: 1ex;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: yellow;
+    -webkit-border-radius: 1ex;
+  }
+  
+  ::-webkit-scrollbar-corner {
+    background: #fff3;
+  }
+  
+
+.history {
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+}
+
+
+
+.card {
+  display: flex;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  max-width: 600px;
+  overflow: hidden;
+}
+
+.card-image {
+  flex: 1;
+  padding: 20px;
+}
+
+.card-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.card-content {
+  flex: 2;
+  padding: 20px;
+}
+
+.card h2 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.card h5 {
+  font-size: 18px;
+  margin: 0;
+  color: #888;
+}
+
+.card p {
+  font-size: 16px;
+}
+
+.close-icon {
+  font-size: 24px;
+  position: relative; 
+  right: 10px; 
+ 
+}
+
+
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .card {
+    flex-direction: column;
+  }
+
+  .card-image,
+  .card-content {
+    flex: 1;
+    padding: 20px;
+  }
+
+  .close-icon{
+    position: absolute;
+    right: 3px;
+  }
+}
+
